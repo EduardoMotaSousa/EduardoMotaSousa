@@ -1,0 +1,116 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="900"
+    height="290"
+    viewBox="0 0 900 290">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="12"
+        fill="#0d1117"
+        stroke="#30363d"/>
+
+    
+    <text
+        x="40"
+        y="50"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold">
+        GitHub Statistics
+    </text>
+
+    <text
+        x="40"
+        y="78"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        @EduardoMotaSousa
+    </text>
+
+    <line
+        x1="40"
+        y1="105"
+        x2="860"
+        y2="105"
+        stroke="#30363d"/>
+
+    <text x="80" y="155"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="28"
+        font-weight="bold">
+        6
+    </text>
+
+    <text x="80" y="180"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        repositories
+    </text>
+
+    <text x="280" y="155"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="28"
+        font-weight="bold">
+        1
+    </text>
+
+    <text x="280" y="180"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        stars
+    </text>
+
+    <text x="480" y="155"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="28"
+        font-weight="bold">
+        0
+    </text>
+
+    <text x="480" y="180"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        forks
+    </text>
+
+    <text x="680" y="155"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="28"
+        font-weight="bold">
+        2
+    </text>
+
+    <text x="680" y="180"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        followers
+    </text>
+
+    <line
+        x1="40"
+        y1="215"
+        x2="860"
+        y2="215"
+        stroke="#30363d"/>
+
+    <text x="40" y="250"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        Automatically generated from GitHub API
+    </text>
+    
+
+</svg>

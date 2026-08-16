@@ -1,0 +1,196 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="900"
+    height="350"
+    viewBox="0 0 900 350">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="12"
+        fill="#0d1117"
+        stroke="#30363d"/>
+
+    
+    <text
+        x="40"
+        y="50"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold">
+        Languages
+    </text>
+    
+        <text
+            x="40"
+            y="90"
+            fill="#f0f6fc"
+            font-family="Arial, sans-serif"
+            font-size="14">
+            C++
+        </text>
+
+        <rect
+            x="150"
+            y="77"
+            width="650"
+            height="12"
+            rx="6"
+            fill="#21262d"/>
+
+        <rect
+            x="150"
+            y="77"
+            width="278"
+            height="12"
+            rx="6"
+            fill="#58a6ff"/>
+
+        <text
+            x="820"
+            y="90"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="13">
+            42.8%
+        </text>
+        
+        <text
+            x="40"
+            y="130"
+            fill="#f0f6fc"
+            font-family="Arial, sans-serif"
+            font-size="14">
+            JavaScript
+        </text>
+
+        <rect
+            x="150"
+            y="117"
+            width="650"
+            height="12"
+            rx="6"
+            fill="#21262d"/>
+
+        <rect
+            x="150"
+            y="117"
+            width="165"
+            height="12"
+            rx="6"
+            fill="#58a6ff"/>
+
+        <text
+            x="820"
+            y="130"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="13">
+            25.5%
+        </text>
+        
+        <text
+            x="40"
+            y="170"
+            fill="#f0f6fc"
+            font-family="Arial, sans-serif"
+            font-size="14">
+            CSS
+        </text>
+
+        <rect
+            x="150"
+            y="157"
+            width="650"
+            height="12"
+            rx="6"
+            fill="#21262d"/>
+
+        <rect
+            x="150"
+            y="157"
+            width="118"
+            height="12"
+            rx="6"
+            fill="#58a6ff"/>
+
+        <text
+            x="820"
+            y="170"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="13">
+            18.2%
+        </text>
+        
+        <text
+            x="40"
+            y="210"
+            fill="#f0f6fc"
+            font-family="Arial, sans-serif"
+            font-size="14">
+            HTML
+        </text>
+
+        <rect
+            x="150"
+            y="197"
+            width="650"
+            height="12"
+            rx="6"
+            fill="#21262d"/>
+
+        <rect
+            x="150"
+            y="197"
+            width="83"
+            height="12"
+            rx="6"
+            fill="#58a6ff"/>
+
+        <text
+            x="820"
+            y="210"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="13">
+            12.8%
+        </text>
+        
+        <text
+            x="40"
+            y="250"
+            fill="#f0f6fc"
+            font-family="Arial, sans-serif"
+            font-size="14">
+            C
+        </text>
+
+        <rect
+            x="150"
+            y="237"
+            width="650"
+            height="12"
+            rx="6"
+            fill="#21262d"/>
+
+        <rect
+            x="150"
+            y="237"
+            width="4"
+            height="12"
+            rx="6"
+            fill="#58a6ff"/>
+
+        <text
+            x="820"
+            y="250"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="13">
+            0.7%
+        </text>
+        
+
+</svg>

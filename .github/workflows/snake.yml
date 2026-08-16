@@ -20,6 +20,13 @@ jobs:
     steps:
 
       # ─────────────────────────────
+      # Checkout do repositório
+      # ─────────────────────────────
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ─────────────────────────────
       # Contribution Snake
       # ─────────────────────────────
 
@@ -39,6 +46,7 @@ jobs:
         run: python3 scripts/generate_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # ─────────────────────────────
       # Publish generated files
       # ─────────────────────────────

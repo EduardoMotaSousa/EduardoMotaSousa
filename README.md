@@ -30,9 +30,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=EduardoMotaSousa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub Statistics">
+<img height="290" src="https://raw.githubusercontent.com/EduardoMotaSousa/EduardoMotaSousa/output/stats.svg" alt="GitHub Statistics">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMotaSousa&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most Used Languages">
+<img height="350" src="https://raw.githubusercontent.com/EduardoMotaSousa/EduardoMotaSousa/output/languages.svg" alt="Most Used Languages">
 
 </div>
 
@@ -55,11 +55,11 @@
 <div align="center">
 
 <a href="https://github.com/EduardoMotaSousa/University-Classes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoMotaSousa&repo=University-Classes&theme=github_dark&hide_border=true" alt="University Classes">
+  <img src="https://raw.githubusercontent.com/EduardoMotaSousa/EduardoMotaSousa/output/university-classes.svg" alt="University Classes">
 </a>
 
 <a href="https://github.com/EduardoMotaSousa/Calculo-de-Figurinhas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoMotaSousa&repo=Calculo-de-Figurinhas&theme=github_dark&hide_border=true" alt="Calculadora de Figurinhas">
+  <img src="https://raw.githubusercontent.com/EduardoMotaSousa/EduardoMotaSousa/output/calculo-de-figurinhas.svg" alt="Calculadora de Figurinhas">
 </a>
 
 </div>

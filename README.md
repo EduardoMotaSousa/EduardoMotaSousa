@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=EduardoMotaSousa&layout=compact&hide_border=true&theme=github_dark" alt="Coding Activity">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@74ee6ea2-8b0f-47b8-8a28-12803e30b505&layout=compact&hide_border=true&theme=github_dark" alt="Coding Activity">
 
 </div>
 

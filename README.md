@@ -6,7 +6,7 @@
 
 <br>
 
-> building things to understand how they work.
+> Building things to understand how they work.
 
 <br>
 
@@ -96,7 +96,7 @@
 ```text
 Backend Development
 Algorithms & Data Structures
-C++
+Database
 Linux
 APIs
 Software Development
@@ -118,20 +118,17 @@ Software Development
 ---
 
 <div align="center">
-
 <br>
 
 <a href="https://github.com/EduardoMotaSousa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/eduardomotaads/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
-
-`learning → building → breaking → understanding`
 
 <br><br>
 

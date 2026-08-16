@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -16,9 +16,13 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
+
+      # ─────────────────────────────
+      # Contribution Snake
+      # ─────────────────────────────
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,6 +30,20 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      # ─────────────────────────────
+      # GitHub Profile Statistics
+      # ─────────────────────────────
+
+      - name: Generate profile statistics
+        run: |
+          python3 scripts/generate_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────
+      # Publish generated files
+      # ─────────────────────────────
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0

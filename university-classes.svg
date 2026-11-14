@@ -1,0 +1,53 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="500"
+    height="160"
+    viewBox="0 0 500 160">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="12"
+        fill="#0d1117"
+        stroke="#30363d"/>
+
+    
+    <text
+        x="35"
+        y="48"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        font-weight="bold">
+        University-Classes
+    </text>
+
+    <text
+        x="35"
+        y="85"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="14">
+        Exercícios e atividades das minhas aulas da faculdade 
+    </text>
+
+    <text
+        x="35"
+        y="125"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        C++
+    </text>
+
+    <text
+        x="180"
+        y="125"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        ★ 1
+    </text>
+    
+
+</svg>

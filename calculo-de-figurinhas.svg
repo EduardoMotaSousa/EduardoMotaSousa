@@ -1,0 +1,53 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="500"
+    height="160"
+    viewBox="0 0 500 160">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="12"
+        fill="#0d1117"
+        stroke="#30363d"/>
+
+    
+    <text
+        x="35"
+        y="48"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        font-weight="bold">
+        Calculo-de-Figurinhas
+    </text>
+
+    <text
+        x="35"
+        y="85"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="14">
+        Desafio para as férias: 1 - Implementar um algoritmo que realiza o calculo conforme o víde
+    </text>
+
+    <text
+        x="35"
+        y="125"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        JavaScript
+    </text>
+
+    <text
+        x="180"
+        y="125"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+        ★ 0
+    </text>
+    
+
+</svg>
